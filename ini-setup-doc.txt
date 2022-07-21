@@ -1,0 +1,25 @@
+---------------
+Requirments
+---------------
+PHP(^7.4)
+
+
+
+
+------------------
+Commands
+------------------
+-> make sure env valirable "SETUP_STATUS" should "NOTCOMPLETED";
+
+$ composer update
+$ php artisan key:generate
+$ php artisan migrate
+$ php artisna db:seeds
+$ php artisna storage:link
+$ php artisna optimize
+
+$ php artisan passport:keys
+$ php artisan passport:install​
+
+-> make sure env valirable "SETUP_STATUS" should "COMPLETED";
+$ php artisan config:cache

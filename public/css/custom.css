@@ -1,0 +1,251 @@
+.left-sidebar {
+    width:240px;
+}
+
+.sidebar-nav ul li ul li a {
+    padding: 7px 20px 7px 5px;
+}
+
+.settings .navbar-header {
+    width: 240px;
+}
+
+/**-------------------------------------------------------
+* purchase order
+* -------------------------------------------------------*/
+.purchase-order .purchase-order-wrapper {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #fefefe;
+  padding-left: 45px;
+  padding-right: 45px;
+  padding-top: 40px;
+  padding-bottom: 40px; 
+}
+
+.purchase-order .purchase-order-wrapper .x-company-name {
+    font-weight: 500; 
+}
+
+.purchase-order .purchase-order-wrapper .purchase-order-dates table tr td:first-child {
+    font-weight: 500; 
+}
+  
+.purchase-order .purchase-order-wrapper .purchase-order-dates table tr td:nth-child(2) {
+    padding-left: 25px; 
+}
+    
+.purchase-order .purchase-order-wrapper .purchase-order-dates table tr td:nth-child(2) span {
+      padding-left: 8px; 
+}
+ 
+.purchase-order .purchase-order-wrapper .purchase-order-dues table tr td:first-child {
+    font-weight: 500; 
+}
+  
+.purchase-order .purchase-order-wrapper .purchase-order-dues table tr td:nth-child(2) {
+    padding-left: 25px; 
+}
+    
+.purchase-order .purchase-order-wrapper .purchase-order-dues table tr td:nth-child(2) span {
+    padding-left: 8px; 
+}
+      
+.purchase-order .purchase-order-wrapper .purchase-order-dues table tr td:nth-child(2) span .label {
+    padding-left: 17px;
+    padding-right: 17px;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 1px; 
+}
+  
+.purchase-order .purchase-order-wrapper .purchase-order-table-wrapper {
+    min-height: 240px; 
+}
+    
+.purchase-order .purchase-order-wrapper .purchase-order-table-wrapper.editing  {
+    min-height: 100px; 
+}
+    
+.purchase-order .purchase-order-wrapper .purchase-order-table-wrapper .purchase-order-table th {
+    border-bottom: solid 1px #e4e4e4; 
+}
+      
+.purchase-order .purchase-order-wrapper .purchase-order-table-wrapper .purchase-order-table th.x-action {
+    width: 15px; 
+}
+     
+.purchase-order .purchase-order-wrapper .purchase-order-table-wrapper .purchase-order-table th.x-description {
+    min-width: 350px; 
+}
+      
+.purchase-order .purchase-order-wrapper .purchase-order-table-wrapper .purchase-order-table th.x-quantity {
+    width: 130px; 
+}
+      
+.purchase-order .purchase-order-wrapper .purchase-order-table-wrapper .purchase-order-table th.x-unit {
+    width: 130px; 
+}
+     
+.purchase-order .purchase-order-wrapper .purchase-order-table-wrapper .purchase-order-table th.x-tax {
+    width: auto;
+    min-width: 100px; 
+}
+.purchase-order .purchase-order-wrapper .purchase-order-table-wrapper .purchase-order-table th.x-total {
+    width: auto;
+    min-width: 100px; 
+}
+.purchase-order .purchase-order-wrapper .purchase-order-table-wrapper .purchase-order-table td {
+    vertical-align: top; 
+}
+
+.purchase-order .purchase-order-wrapper .purchase-order-table-wrapper .purchase-order-table td.x-action {
+    padding: 0px; 
+}
+
+.purchase-order .purchase-order-wrapper .purchase-order-table-wrapper .purchase-order-table td.x-action button {
+    margin-left: -4px; 
+}
+
+.purchase-order .purchase-order-wrapper .purchase-order-table-wrapper .purchase-order-table td.x-description {
+    padding-right: 15px; 
+}
+
+.purchase-order .purchase-order-wrapper .purchase-order-table-wrapper .purchase-order-table.editing th.x-description {
+    width: auto;
+    min-width: 200px; 
+}
+
+.purchase-order .purchase-order-wrapper .purchase-order-table-wrapper .purchase-order-table.editing th.x-manufacturer {
+    width: 180px; 
+}
+
+.purchase-order .purchase-order-wrapper .purchase-order-table-wrapper .purchase-order-table.editing th.x-manufacturer-part-number {
+    width: 180px; 
+}
+
+.purchase-order .purchase-order-wrapper .purchase-order-table-wrapper .purchase-order-table.editing th.x-quantity {
+    width: 100px; 
+}
+
+.purchase-order .purchase-order-wrapper .purchase-order-table-wrapper .purchase-order-table.editing th.x-unit {
+    width: 130px; 
+}
+.purchase-order .purchase-order-wrapper .purchase-order-table-wrapper .purchase-order-table.editing th.x-tax {
+    width: auto; 
+}
+
+.purchase-order .purchase-order-wrapper .purchase-order-table-wrapper .purchase-order-table.editing th.x-total {
+    width: auto; 
+}
+
+.purchase-order .purchase-order-wrapper .purchase-order-item-actions {
+    padding-left: 37px;
+    padding-bottom: 40px;
+    padding-top: 15px; 
+}
+
+.purchase-order .purchase-order-wrapper .purchase-order-item-actions .btn {
+    margin-right: 6px; 
+}
+.purchase-order .purchase-order-wrapper .purchase-order-item-actions .btn:hover, .purchase-order .purchase-order-wrapper .purchase-order-item-actions .btn:active, .purchase-order .purchase-order-wrapper .purchase-order-item-actions .btn:focus {
+    background-color: #ff5f6f !important;
+    color: #ffffff !important;
+    border-color: #ff5f6f !important; 
+}
+
+.purchase-order .purchase-order-wrapper .purchase-order-item-actions .btn:hover i, .purchase-order .purchase-order-wrapper .purchase-order-item-actions .btn:active i, .purchase-order .purchase-order-wrapper .purchase-order-item-actions .btn:focus i {
+    color: #ffffff !important; 
+}
+  
+.purchase-order .purchase-order-wrapper .purchase-order-total-table {
+    font-size: 16px; 
+}
+
+.purchase-order .purchase-order-wrapper .purchase-order-total-table #po-table-section-total {
+    border-top: solid 1px #e4e4e4; 
+}
+
+.purchase-order .purchase-order-wrapper .purchase-order-total-table tr td {
+    padding-bottom: 3px;
+    padding-top: 3px; 
+}
+
+.purchase-order .purchase-order-wrapper .purchase-order-total-table tr td:nth-child(1) {
+    font-weight: 400; 
+}
+
+.purchase-order .purchase-order-wrapper .purchase-order-total-table tr td:nth-child(2) {
+    min-width: 110px;
+    padding-left: 15px; 
+}
+
+.purchase-order .purchase-order-wrapper .purchase-order-total-table tr td .x-small {
+    font-size: 12px; 
+}
+
+.purchase-order .purchase-order-wrapper .purchase-order-total-table tr#po-sums-total-container td {
+    font-size: 20px;
+    font-weight: 500 !important; 
+}
+
+.purchase-order .purchase-order-wrapper .purchase-order-pay {
+    text-align: left; 
+}
+
+.purchase-order .purchase-order-wrapper .purchase-order-pay .x-title {
+    font-size: 18px;
+    font-weight: 600;
+    padding-bottom: 8px; 
+}
+
+.purchase-order .purchase-order-wrapper .purchase-order-pay .x-options {
+    padding-bottom: 8px; 
+}
+
+.purchase-order .purchase-order-wrapper .purchase-order-pay .gateway-bank-details {
+    background-color: #f6f9fa;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 6px; 
+}
+
+.purchase-order .modal-body #payments-table-wrapper {
+  margin-top: -30px;
+  margin-bottom: 0px; 
+}
+
+/*----New ShowTec Cutomizations-----*/
+
+.first-row-wraper
+{ 
+    padding: 20px 10px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+
+
+
+
+
+
+
+/*-----------------------------------
+Media Query
+-----------------------------------*/
+
+@media (min-width: 768px) {
+    .navbar-header {
+        width: 240px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .page-wrapper {
+        margin-left: 240px;
+    }
+    
+}

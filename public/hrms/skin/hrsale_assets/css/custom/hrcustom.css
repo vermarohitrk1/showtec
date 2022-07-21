@@ -1,0 +1,22 @@
+#header_wrapper.ecom-header {
+    z-index: 0;
+}
+
+.stamp-hrsale-md {
+    min-width: 2.5rem;
+    height: 2.5rem;
+    line-height: 2.5rem;
+}
+
+@media (min-width: 992px) {
+    .modal-lg, .modal-xl {
+        max-width: 800px;
+    }
+}
+
+
+.k-checkbox [type="checkbox"]:not(:checked), [type="checkbox"]:checked {
+    position: inherit;
+    left: 0;
+    opacity: 1;
+}
